@@ -1,2 +1,2 @@
 # Harris-Corner-Detection-Algorithm-
-Rather than using a OpenCV built-in function like cv2.cornerHarris() performing Harris corner detection building its algorithm. 
+In order to understand the underlying algorithm of Harris corner detection rather than using a built-in function like cv2.cornerHarris() in OpenCV here Harris corner detection is done by building its algorithm step by step.  
